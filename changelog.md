@@ -4,6 +4,17 @@ Team membership:  ME (Captain) & SL (Mate)
 Team conventions: Allman notation, markdown for changelog
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+## *Version 1.0.3*
+
+Release Date: Sept 22nd, 2017
+
+Added models and database logic
+
+## New Components
+- Added a model for the images
+## Updated Components
+- Updated welcome page and gallery page to use the new db model
+
 ## *Version 1.0.2*
 
 Release Date: Sept 22nd, 2017
